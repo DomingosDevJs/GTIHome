@@ -2,5 +2,13 @@
     box-sizing: border-box;
     padding-top: 50px;
     padding-bottom: 30px;
-    border-bottom: 7px solid #f7bd00;
+    border-bottom: 7px solid #0d0d5f;
+}
+
+.main-section.-second{
+    background-color: #0d0d5f;
+}
+
+.main-title.-third{
+    color: #FFF;
 }
