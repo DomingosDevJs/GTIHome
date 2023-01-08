@@ -1,0 +1,13 @@
+.main-title{
+    display: flex;
+    font-family: 'Poppins','Ubuntu', sans-serif;
+    font-size: 60px;
+    align-items: center;
+    color:#FFF;
+    justify-content: center;
+}
+
+.main-title.-second{
+    color:#000;
+    margin-bottom: 40px;
+}

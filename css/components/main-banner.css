@@ -1,0 +1,10 @@
+.main-banner{
+    box-sizing: border-box;
+    background-image: url(../../assets/img/background-gti.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+    padding-left: 20px;
+    border-bottom: 6px solid #f7bd00;
+    height: 800px;
+}

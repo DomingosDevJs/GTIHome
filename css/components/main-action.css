@@ -1,0 +1,12 @@
+.main-action{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #FFF;
+    transition: color 0.1s linear, transform 0.1s ease-in-out;
+}
+
+.main-action:hover{
+    color:#f7bd00;
+    transform: translateY(-5px);
+}

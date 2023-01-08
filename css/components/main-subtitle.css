@@ -1,0 +1,6 @@
+.main-subtitle{
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    width: 700px;
+}

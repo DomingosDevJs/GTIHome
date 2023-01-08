@@ -1,0 +1,17 @@
+.main-button{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color:#0d0d5f;
+    box-shadow:6px 6px 0 #f7bd00;
+
+    padding: 16px 20px;
+    background-color: #FFF;
+    transition: background-color 0.1s linear, padding 0.1s ease-in-out;
+}
+
+.main-button:hover{
+    background-color: #f7bd00;
+    box-shadow: 7px 7px 0 #FFF;
+    padding: 20px 30px;
+}

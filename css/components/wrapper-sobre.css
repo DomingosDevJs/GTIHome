@@ -1,0 +1,11 @@
+.wrapper-sobre{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wrapper-sobre .right{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
